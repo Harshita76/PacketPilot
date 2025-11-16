@@ -1,1 +1,1 @@
-# PacketPilot
+A POSIX-based package delivery and routing simulator designed for the Operating Systems course (CS F372). The system coordinates multiple trucks on an N×N grid using POSIX shared memory, message queues, and solver processes to generate authorization strings for truck movement.
